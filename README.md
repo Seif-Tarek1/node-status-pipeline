@@ -2,6 +2,7 @@
 A complete data pipeline and automation system that simulates real-time network data via a FastAPI backend, cleans and preprocesses it, and trains a predictive model to estimate node health status.
 
 **Features:**
+
 1.FastAPI Backend: Simulates realistic node, latency, and status data with configurable randomness and real-time behavior.
 
 2.Data Cleaning: Handles nulls, inconsistent labels, missing IDs, and transforms raw data into usable format.
